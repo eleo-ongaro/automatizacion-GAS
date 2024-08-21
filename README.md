@@ -2,7 +2,8 @@ English
 <h1>Health Case Management and Tracking System with Google Sheets and Apps Script 🤖</h1>
 
 <h3>Video Demo</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kex5blGOStg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://github.com/user-attachments/assets/cd16a908-a749-4e1a-8d73-e9cb9341104c
 
 <h3>Description:</h3>
 
